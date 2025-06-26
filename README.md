@@ -1,102 +1,49 @@
+# 🏄‍♂️ Tushar Tari
 
-**Tushar Tari**  
-Munich, Germany | [tushartari16@gmail.com](mailto:tushartari16@gmail.com) | \+49 (151) 435-24720  
-[https://www.linkedin.com/in/tushar-krishna-tari/](https://www.linkedin.com/in/tushar-krishna-tari/) | [github.com/tushartari11](https://github.com/tushartari11)
+**`Senior Software Engineer( Freelancer)`**
 
-**SENIOR JAVA FULL STACK DEVELOPER**
-
-Experienced **TOGAF Certified Enterprise Architecture Practitioner** and Senior Java Developer with over 16 years in designing and developing scalable **Java-based solutions** for enterprise applications. Demonstrated expertise in implementing **cloud native architectures** using **Microservices, Spring Boot, and AWS**. Known for driving technical excellence and delivering high-quality results in fast-paced environments within Telecom and Healthcare. Proficient in Agile and Test-Driven Development practices, with strong skills in collaborating with business analysts and stakeholders to ensure alignment with business objectives. **Actively pursuing AWS Solutions Architect** certification to further enhance cloud and architecture expertise.
-
-**WORK EXPERIENCE**
+<h3 align="left">A passionate full stack developer transitioning to solution architecture</h3>
 
 ---
 
-**Technical Lead – Java Development ( Freelancer )**	 Jul 2021 \- Till Date  
-[CosmicIT GmbH](https://cosmic-it.com/)| Munich, Germany
-
-* Developed and **optimized legacy systems for a 35% improvement in response time** through performance tuning and external application integration  
-* Enhanced deployment scripts for application migration to Solaris and private cloud environments  
-* **Led cross-functional integration efforts** and spearheaded AWS Cloud migration proof-of-concept, aligning cloud solutions with client needs.  
-* Created Proof of Concept for the migration of existing **project on Aws Cloud infrastructure**  
-* Worked closely with the business analysts and product owners through multiple releases to **improve the product release planning and development** and ensure smoother delivery  
-* Mentored a team of 3 junior developers, fostering a culture of continuous learning and improving code quality through regular peer reviews and workshops  
-* Engaged with stakeholders for strategic guidance, leading to a 20% increase in product adoption.
-
-**Senior Associate \- Java Development**	 May 2018 \- Jun 2021  
-[Cognizant Technology Systems GmbH](https://www.cognizant.com/de/de/about-cognizant) | Munich, Germany 
-
-* Coordinated a team to implement a test environment, **reducing defect rates by 50%** in production releases   
-* Developed backend and frontend modules for high-availability IT applications.  
-* Provided training and mentorship to junior developers, ensuring seamless team integration and knowledge sharing  
-* Collaborated with product managers to integrate user feedback into the development cycle, leading to a 20% increase in feature adoption rates.  
-* Successfully performed product installations on testing environments and resolved production issues.
-
-**Senior Software Engineer**	 Oct 2016 \- Apr 2018  
-[CosmicIT GmbH](https://cosmic-it.com/) | Munich, Germany
-
-* Contributed to the development of a secure, OAuth 2.0-compliant authentication system, enhancing data protection and reducing unauthorized access attempts by 95%  
-* Created automated utilities in **Python and Node.js to manage Sass-to-CSS** compilation, improving deployment efficiency   
-* Designed and developed backend modules for customer data verification, optimizing functionality and ensuring data accuracy.  
-* Integrated third-party interfaces (e.g., Gemalto) to enhance customer data verification processes, achieving faster verification times.  
-* Retrieved and processed transaction data leveraging JooQ and Spring MVC, managing end-to-end functionality for secure data handling.  
-* Developed a proof of concept for caching at both query and object levels, presenting performance pros and cons to stakeholders.  
-* Built and tested RESTful APIs, utilizing the Citrus **automation testing framework** to validate implementation and ensure reliability.
-
-**Java Technical Lead**	 Jul 2012 \- Dec 2015  
-[CitiusTech IT Solutions Pvt. Limited](https://www.citiustech.com/) | Mumbai, India
-
-* 	Migrated Java Swing application to backbone.js and then to **AngularJS** application thereby improving the user experience and acceptance of the system  
-* Migrated As 400 Procedures to Java application which resulted in improved maintainability and reduced complexity of critical workflows  
-* Engaged closely with onshore product architect and product owners for design discussions while being deputed to onsite location in the USA Customer Location  
-* Developed microservices using Spring Boot and deploying the same on Cloud
-
-**Senior Software Engineer**	 Jun 2011 \- Jun 2012  
-[KPIT Cummins Infosystems Limited](https://www.kpit.com/) | Pune, India
-
-* Developed an internal CRM Application for the client using JSF2.0 and ICEFACES  
-* Redesigned and implemented the Crisil Research portal with the help of smart caching resulting in a 70% percent increase in response time  
-* Collaborated with research analysts and the product owners regarding solution design and deployment  
-* Mentored Junior developers and performed code reviews to maintain code quality
-
-**Senior Software Engineer**	 Oct 2010 \- Apr 2011  
-[Polaris Software Labs Pvt.  Limited](https://polarisitgroup.com/) | Mumbai, India
-
-* Implemented changes for bug fixes and enhancements for Citibank Custodial Services  
-* Collaborated with Project Managers and Team leader regarding enhancements and other fixes
-
-**Programmer**	 Aug 2009 \- Sep 2010  
-Ugam Solutions Pvt. Limited | Pune, India
-
-* Developed web application based on J2EE Java Server Faces framework  
-* Redesigned Updated existing stored procedures and wrote new procedures using SQL Server 2005  
-* Designed and implemented intuitive user interfaces in collaboration with the Business Analyst resulting in a 40% decrease in user onboarding time and enhancing overall customer satisfaction scores across the platform
-
-**CERTIFICATIONS & TRAININGS**
+ <p align="left">
+    <a href="https://github.com/tushartari11?tab=views">
+        <img src="https://komarev.com/ghpvc/?username=tushartari11&label=Profile%20views&?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" alt="tushartari11" />
+    </a>
+      <a href="https://github.com/tushartari11?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tushartari11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/tushartari11?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tushartari11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ---
 
-**Achieved the TOGAF® Enterprise Architecture Practitioner Certification**
-**Completed B2.2 Intensive Course in German Language from Goethe Institute, Munich**  
-**Achieved the (B1 level ) in German language of the Common European Framework of Reference for Languages from Max Mueller Bhavan Mumbai.**	 
+- 🔭 I’m currently working on **smart schema detection**
+- 🧑‍💻 I’m currently working on Microservices NFR requirements.
+- 🌱 I’m currently learning the three pillars of observability
+- 📄 Check out my [Resume](https://docs.google.com/document/d/1rq1Qi7ZI1D1MpTWfzBA3YUoJnlz5ocSG/edit?usp=sharing)
+- 👯 I’m looking to collaborate on Angular-based projects, Aws projects, and real-time collaborative tools.
+- 💬 Ask me about Building highly scalable cloud native apps using multicloud environments.
+- ✉️ Feel free to reach out to me at [tushartari18.de@gmail.com](mailto:tushartari18.de@gmail.com)
 
-**EDUCATION**
+<div align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-krishna-tari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-krishna-tari" height="30" width="40" /></a>
+</p>
+</div>
 
----
+<div align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-**Bachelor of Engineering** 	 July 2001 \-June 2007  
-Datta Meghe College of Engineering, Navi Mumbai (India)
+<div align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushartari11&show_icons=true&&theme=gruvbox" alt="tushartari11" /></p>
 
-**TECHNICAL SKILLS**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tushartari11&show_icons=true&theme=gruvbox" alt="tushartari11" /></p>
+</div>
 
----
-
-**Backend Technologies:** Java-EE, Python, EJB, Spring, Spring Boot, Rest API, SOAP, Microservices, Hibernate, Event Sourcing, Kafka, Oracle, MySQL, MongoDB, PostgreSQL, Weblogic, Bash Scripting  
-**Frontend Technologies:** React, Angular,  NodeJS, JavaScript, TypeScript,  
-**Project Management Tools & Methodologies:** Scrum, Kanban, Atlassian Jira, Confluence, TDD, DDD,BDD  
-**Cloud Native:** **Docker  Kubernetes, Terraform**, CI/CD, Git,  **AWS Lambda, VPC, IAM**, Jenkins, Maven, Gradle, Linux, Logging, Monitoring
-
-**SOFT SKILLS**
-
----
-
-**Communication**, Ownership,  **Leadership**, **Innovation**,  Time Management, **Adaptability**, **Complex Problem Solving**, Teamwork, Creativity
+<div align="left">
+    <img src="https://raw.githubusercontent.com/tushartari11/tushartari11/output/snake.svg" alt="Snake animation" />
+</div>
