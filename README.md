@@ -1,8 +1,10 @@
 # 🏄‍♂️ Tushar Tari
 
-**`Senior Software Engineer( Freelancer)`**
+**`SENIOR JAVA ENGINEER`**
 
-<h3 align="left">A passionate full stack developer transitioning to solution architecture</h3>
+<h3 align="left">
+Experienced Java Developer in designing and developing high quality, secure, scalable software solutions based on technical requirements specifications and design artifacts within expected time and budget. Demonstrated expertise in implementing cloud native architectures using Event Driven Microservices using Kafka, Spring Boot, and AWS. Known for driving technical excellence and delivering high-quality results in fast-paced environments within Telecom and Healthcare. Solid knowledge of techniques or methodologies to achieve non-functional requirements like reliability, availability, resilience, performance, security. Adept in succinctly articulating architecture patterns of complex systems, with business and technical implications, to executive and customer stakeholders.
+</h3>
 
 ---
 
@@ -19,10 +21,10 @@
 ---
 
 - 🔭 I’m currently working on **smart schema detection**
-- 🧑‍💻 I’m currently working on Microservices NFR requirements.
-- 🌱 I’m currently learning the three pillars of observability
+- 🧑‍💻 I’m currently working on Microservices based Workforce management Platform.
+- 🌱 Currently in the discovery phase and finalizing the requirements
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1rq1Qi7ZI1D1MpTWfzBA3YUoJnlz5ocSG/edit?usp=sharing)
-- 👯 I’m looking to collaborate on Angular-based projects, Aws projects, and real-time collaborative tools.
+- 👯 I’m looking to collaborate on Cloud Native projects and real-time collaborative and automation tools.
 - 💬 Ask me about Building highly scalable cloud native apps using multicloud environments.
 - ✉️ Feel free to reach out to me at [tushartari18.de@gmail.com](mailto:tushartari18.de@gmail.com)
 
