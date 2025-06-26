@@ -48,5 +48,12 @@
     <img src="https://raw.githubusercontent.com/tushartari11/tushartari11/output/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="left">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
+
+<div align="left">
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</div>
