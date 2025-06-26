@@ -47,3 +47,6 @@
 <div align="left">
     <img src="https://raw.githubusercontent.com/tushartari11/tushartari11/output/snake.svg" alt="Snake animation" />
 </div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
