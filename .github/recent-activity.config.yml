@@ -1,0 +1,22 @@
+settings:
+  username: ${{ GH_USERNAME }}
+  commit_msg: ":zap: Update README with the recent activity"
+  max_lines: 5
+  readme_file: README.md
+  disabled_events:
+    - comments
+    - fork
+    - issues
+  url_text: "{REPO}{ID}"
+  commit_name: "readme-bot"
+  commit_email: "action@github.com"
+  date:
+    text: ""
+    timezone: "GMT+00:00"
+
+  template:
+    - "⚡ {ACTION} {REPO}"
+    - "{DESCRIPTION}"
+    - "🎯 {REPO} - {DESCRIPTION}"
+    - "📦 {ACTION} {REPO}"
+    - "🔥 {DESCRIPTION} in {REPO}"
