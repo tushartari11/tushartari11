@@ -54,11 +54,11 @@ Experienced Java Developer in designing and developing high quality, secure, sca
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 15 mins  ████████████░░░░░░░░░░░░░   47.85 %
-HTML         2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-JavaScript   2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-JSON         1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Bash         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+TypeScript   10 hrs 7 mins   █████████████░░░░░░░░░░░░   51.43 %
+HTML         3 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+SCSS         1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+JSON         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Bash         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 ```
 
 <!--END_SECTION:waka-->
