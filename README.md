@@ -54,8 +54,8 @@ Experienced Java Developer in designing and developing high quality, secure, sca
 <!--START_SECTION:waka-->
 
 ```txt
-Other      27 mins               ████████████████░░░░░░░░░   64.04 %
-Markdown   15 mins               █████████░░░░░░░░░░░░░░░░   35.96 %
+Other      27 mins               ██████████████▒░░░░░░░░░░   57.05 %
+Markdown   20 mins               ██████████▓░░░░░░░░░░░░░░   42.95 %
 ```
 
 <!--END_SECTION:waka-->
